@@ -1,0 +1,64 @@
+body {
+    background-color: gray;
+}
+div {
+    background-color: lightblue;
+    padding: 30px;
+    width: 960px;
+    margin-left: 450px;
+}
+h1 {
+    text-align: center;
+    border-style: hidden hidden double hidden;
+    border-color: darkblue;
+    border-width: 6px;
+}
+h2 {
+    color: darkblue;
+    text-transform: uppercase;
+    border-style: solid hidden dotted hidden;
+    margin-right: 40%;
+}
+ul {
+    list-style-image: url(kukac.png);
+}
+.kep1 {
+    width: 200px;
+    height: 150px;
+    border-style: solid solid solid solid;
+    border-color: darkblue;
+    border-width: 10px;
+    margin: 20px;
+    float: right;
+}
+.kep2 {
+    width: 150px;
+    height: 175px;
+    border-style: solid solid solid solid;
+    border-color: darkblue;
+    border-width: 10px;
+    margin: 20px;
+    float: left;
+}
+.kep3 {
+    width: 175px;
+    height: 230px;
+    border-style: solid solid solid solid;
+    border-color: darkblue;
+    border-width: 10px;
+    margin: 20px;
+    float: right;
+}
+li {
+    margin-left: 50px;
+}
+.forras {
+    margin-left: 500px;
+    font-style: italic;
+}
+a:hover {
+    color: darkblue;
+}
+a:link {
+    color: purple;
+}
